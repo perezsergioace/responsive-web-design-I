@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5 {
     }
     nav {
         margin: 0 10%;
-        width: 600px;
+        /* width: 600px; */
         margin-bottom: 40px;
     }
     .circle-img {
@@ -228,6 +228,7 @@ h1, h2, h3, h4, h5 {
         display: flex;
         flex-direction: column;
         margin-left: 25%;
+        width: 600px;
     }
     .top-content {
         flex-direction: column;
